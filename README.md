@@ -8,7 +8,8 @@ Navigate to the folder that you have `main.py` saved in,
 making sure the plain-text book files are also saved in
 the same folder.
 
-Then run the following command
+Then run the following command, replacing everything after `main.py`
+with the file names of your plain-text books.
 
 ![cmd screenshot](.images/command.png)
 
